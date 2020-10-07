@@ -1,0 +1,7 @@
+Ivanov 22000
+Petrov 25000
+Zhukov 20000
+Kirillov 18500
+Pavlova 26000
+Semenova 24000
+Vasilenko 19000
